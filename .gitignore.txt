@@ -1,0 +1,26 @@
+# Ignora arquivos compilados do Java
+*.class
+# Ignora arquivos de pacote do Maven
+target/
+*.jar
+*.war
+*.ear
+# Ignora arquivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+# Ignora arquivos de log
+*.log
+# Ignora arquivos de configuração local
+*.properties
+*.cfg
+*.config
+# Ignora arquivos gerados pelo sistema
+.DS_Store
+Thumbs.db
